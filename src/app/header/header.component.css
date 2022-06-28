@@ -1,0 +1,7 @@
+:host h1 {
+    color: blue;
+ }
+
+ :host h3 {
+    color: green;
+ }
